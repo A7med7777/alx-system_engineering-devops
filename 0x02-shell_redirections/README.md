@@ -5,3 +5,4 @@
 <br>4-lastlines: Display the last 10 lines of /etc/passwd
 <br>5-firstlines: Display the first 10 lines of /etc/passwd
 <br>6-third_line: Write a script that displays the third line of the file iacta.
+<br>7-file:a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line. 
