@@ -1,3 +1,2 @@
 #!/bin/bash
 printenv
-<br>4-global_variables: a script that lists environment variables.
