@@ -14,3 +14,4 @@
 <br>13-print_float: a script that prints a number with two decimal places, followed by a new line.
 <br>100-decimal_to_hexadecimal: a script that converts a number from base 10 to base 16.
 <br>101-rot13: a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+<br>103-water_and_stir: a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
